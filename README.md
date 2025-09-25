@@ -1,5 +1,5 @@
 # vrinda-store-excel-project
-vrinda-store-analysis
+Excel Dashboard for Vrinda Store Sales Report 2022
 
 # Vrinda Store Sales Report 2022 📊
 
