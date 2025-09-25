@@ -5,7 +5,7 @@ vrinda-store-analysis
 
 This project is an **Excel Dashboard**showing annual sales insights of Vrinda Store.
 
-![DASHBOARD SCREENSHOT]("Screenshot 2025-09-22 214826.png")
+![Dashboard Screenshot](Screenshot 2025-09-22 214826.png)
 
 ## Features
 - Sales vs Orders trend (monthly)
