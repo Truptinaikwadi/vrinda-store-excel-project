@@ -1,7 +1,7 @@
 # vrinda-store-excel-project
 Excel Dashboard for Vrinda Store Sales Report 2022
 
-# Vrinda Store Sales Report 2022 📊
+# Vrinda Store Sales Report 2022 
 
 This project is an **Excel Dashboard**showing annual sales insights of Vrinda Store.
 
